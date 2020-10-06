@@ -6,5 +6,5 @@
  *
  */
 module helloworld2 {
-	System.out.println("Hello world!");
+	System.out.println("Hello world!, test2");
 }
